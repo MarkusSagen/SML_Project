@@ -1,5 +1,10 @@
 Contributions:
 
-Edvin: RandomForest and Gradient Boost + very basic tuning of them and brief description of them. Untuned kNN, LogReg, GaussianNB. 
-Discussion about apparent overfit of GB and RF.
-Discussed the performance difference when using raw in-data between the ensemble and non-ensemble methods.
+Edvin: 
+* RandomForest and Gradient Boost + very basic tuning of them and brief description of them. Untuned kNN, LogReg, GaussianNB. 
+* Discussion about apparent overfit of GB and RF.
+* Discussed the performance difference when using raw in-data between the ensemble and non-ensemble methods.
+
+Karl-Johan Hällgren:
+* Everything to do with kNN tuning in the report, including the final kNN code and test submission.
+* Main writer of scenario 1 & 2 in ethics section, as well as large parts of analysis
