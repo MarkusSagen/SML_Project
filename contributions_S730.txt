@@ -1,0 +1,5 @@
+Contributions:
+
+Edvin: RandomForest and Gradient Boost + very basic tuning of them and brief description of them. Untuned kNN, LogReg, GaussianNB. 
+Discussion about apparent overfit of GB and RF.
+Discussed the performance difference when using raw in-data between the ensemble and non-ensemble methods.
