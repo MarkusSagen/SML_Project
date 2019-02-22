@@ -8,3 +8,9 @@ Edvin:
 Karl-Johan Hällgren:
 * Everything to do with kNN tuning in the report, including the final kNN code and test submission.
 * Main writer of scenario 1 & 2 in ethics section, as well as large parts of analysis
+
+Mohammed Al-Jaff: 
+* Exploraty data analyis, feature selection and dataset preprocessing. 
+* support vector machine classification + tuning of the penalization hyper param. 
+* Wrote introduction, and SVM parts + Data analysis parts of the report. Contributed to in discusion part about 0.8 ceiling, why could be the case and how this could be adressed by expanding features. 
+* Brought Snacks :) 
