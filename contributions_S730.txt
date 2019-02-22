@@ -11,6 +11,21 @@ Karl-Johan Hällgren:
 
 Mohammed Al-Jaff: 
 * Exploraty data analyis, feature selection and dataset preprocessing. 
-* support vector machine classification + tuning of the penalization hyper param. 
+* support vector machine classification + tuning of the penalization hyperparameters. 
 * Wrote introduction, and SVM parts + Data analysis parts of the report. Contributed to in discusion part about 0.8 ceiling, why could be the case and how this could be adressed by expanding features. 
 * Brought Snacks :) 
+
+Markus Johnson:
+* Initial Python code, Github set up and test of all classier algoritms from the lecture slides:
+    - Logistic regression
+    - SVM
+    - Lasso
+    - Ridge regression
+    - Random Forest 
+    - Bootsting 
+    . And more.
+* Evaluate which classiers to investigate and test further
+* Submitted first 3 predictions of songs liked to the site and continued to theak the models 
+* Created inital draft for the rapport together with Mohammed Al-Jaff
+* Fact checked rapport
+* Included  and researched (hopefully) relevant references 
